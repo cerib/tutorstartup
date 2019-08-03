@@ -1,0 +1,42 @@
+.background-color-fullwidth {
+  background-color: pink;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.background-color-fullwidth h1 {
+  text-align: center;
+}
+
+#header-subtitle {
+  text-align: center;
+}
+
+#get-started-button {
+  margin-top: 50px;
+}
+
+.top-left-corner {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.top-right-corner {
+  position: absolute;
+  top: 10px;
+  right: 5px;
+}
+
+#sign-up-link {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+  transition: 0.5s;
+}
+
+#sign-up-link:hover {
+  color: #4183c4;
+}
