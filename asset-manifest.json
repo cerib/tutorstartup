@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tutorstartup/static/css/main.28e09470.chunk.css",
+    "main.js": "/tutorstartup/static/js/main.df267bd9.chunk.js",
+    "main.js.map": "/tutorstartup/static/js/main.df267bd9.chunk.js.map",
+    "runtime~main.js": "/tutorstartup/static/js/runtime~main.1b5657f3.js",
+    "runtime~main.js.map": "/tutorstartup/static/js/runtime~main.1b5657f3.js.map",
+    "static/js/2.1b3a0643.chunk.js": "/tutorstartup/static/js/2.1b3a0643.chunk.js",
+    "static/js/2.1b3a0643.chunk.js.map": "/tutorstartup/static/js/2.1b3a0643.chunk.js.map",
+    "index.html": "/tutorstartup/index.html",
+    "precache-manifest.59c79e3114ae89649dc2c4bb2f044a33.js": "/tutorstartup/precache-manifest.59c79e3114ae89649dc2c4bb2f044a33.js",
+    "service-worker.js": "/tutorstartup/service-worker.js",
+    "static/css/main.28e09470.chunk.css.map": "/tutorstartup/static/css/main.28e09470.chunk.css.map"
+  }
+}
